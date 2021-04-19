@@ -1,0 +1,10 @@
+.height-modification {
+    height: 20vh;
+}
+
+.heading-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xxx-large;
+}

@@ -1,0 +1,10 @@
+.weather-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.information {
+    color: black; 
+    font-size: large;
+}
