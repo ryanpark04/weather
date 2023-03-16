@@ -7,6 +7,7 @@ const Heading = ({ weatherData }) => {
         <div className={'heading-display'}>
             Weather in {weatherData.name}, {isoCountries[weatherData.sys.country]}
         </div>
+        
     );
 }
 
